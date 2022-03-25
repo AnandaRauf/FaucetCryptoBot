@@ -124,7 +124,7 @@ the open tabs.
 create a virtual environment with virtualenv
 
 ``` bash
-virtualenv env
+ py -m venv name-env
 ```
 
 Activate the virtual environment
